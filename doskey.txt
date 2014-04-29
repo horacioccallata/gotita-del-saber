@@ -1,0 +1,6 @@
+importate el doskey para poner alias
+ejemplo 
+Doskey="C:\Program Files\Sublime Text 2\sublieme_text"
+
+tambien se puede cambiar el dir por ls con solo crear un ls.bat y este archivo contiene dir el cual 
+cada vez que ejecuto es como si ejecutara el ls
